@@ -16,7 +16,7 @@ nav {
    /* Stijl de koppelingen (hyperlinks) in het menu */
    a {
     text-decoration: none; /* Verwijder de onderstreping van koppelingen */
-    color: #fff; /* Tekstkleur van koppelingen */
+    color: #00FEFC; /* Tekstkleur van koppelingen */
    }
    /* Stijl de koppelingen wanneer de muis erover beweegt */
    a:hover {
